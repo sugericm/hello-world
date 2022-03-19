@@ -1,2 +1,1 @@
-# hello-world
-this is first time I create a project.
+* hello-world 这是我第一次创作一个项目。
